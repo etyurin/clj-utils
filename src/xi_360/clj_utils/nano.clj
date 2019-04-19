@@ -1,4 +1,4 @@
-(ns clj-utils.nano
+(ns xi-360.clj-utils.nano
   (:import [java.time Instant Duration]
            java.lang.System))
 

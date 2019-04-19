@@ -1,6 +1,6 @@
-(ns clj-utils.until-test
+(ns xi-360.clj-utils.until-test
   (:use [clojure.test])
-  (:require [clj-utils.until :as u :refer :all]))
+  (:require [xi-360.clj-utils.until :as u :refer :all]))
 
 
 (deftest take-until-test

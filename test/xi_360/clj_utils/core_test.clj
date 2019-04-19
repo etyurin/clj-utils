@@ -1,6 +1,6 @@
-(ns clj-utils.core-test
+(ns xi-360.clj-utils.core-test
   (:require [clojure.test :refer :all]
-            [clj-utils.core :refer :all]))
+            [xi-360.clj-utils.core :refer :all]))
 
 
 (deftest a-test

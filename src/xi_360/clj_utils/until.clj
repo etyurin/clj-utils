@@ -1,4 +1,4 @@
-(ns clj-utils.until)
+(ns xi-360.clj-utils.until)
 
 ;; The following code is taken from Clojure submissions, it was never
 ;; adopted into clojure.core:
